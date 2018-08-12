@@ -47,10 +47,6 @@ main directory
 Create a virtualenv
 ```
 $ virtualenv anyname
-```
-
-Install Flask
-```
 $ pip install flask
 ```
 
