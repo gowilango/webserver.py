@@ -1,7 +1,5 @@
-### Documentation is Pending 
-
 ## Python Web Server using Flask
-
+## macOS
 Make Sure you have NPM installed.
 
 ```
@@ -50,6 +48,12 @@ Create a virtualenv
 ```
 $ virtualenv anyname
 ```
+
+Install Flask
+```
+$ pip install flask
+```
+
 To Activate the virtualenv
 ```
 $ cd launch
